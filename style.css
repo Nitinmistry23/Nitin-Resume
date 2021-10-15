@@ -366,7 +366,7 @@ body{
 }
 .about {
     padding-top: 60px;
-    margin-bottom: -130px;
+    /* margin-bottom: -130px; */
 }
 .mydata{
 	text-align: center !important;
